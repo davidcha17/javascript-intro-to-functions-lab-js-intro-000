@@ -20,12 +20,12 @@ function sayHiToGrandma(string) {
     var canHear = 'I can hear you!'
       var loveYou = 'I love you too!'
           if(string.toLowerCase === string){
-          return cantHear
+          return cantHear;
           }
             else if(string.toUpperCase === string){
-              return canHear
+              return canHear;
             }
                 else if('I love you Grandma' === string) {
-                  return loveYou
+                  return loveYou;
                 }
 }
